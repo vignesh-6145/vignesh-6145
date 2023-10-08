@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋, My name is Vignesh.B
 
-<!--
-**vignesh-6145/vignesh-6145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate & Enthusiastic CS Student, Developer
 
-Here are some ideas to get you started:
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Expense Manager</p>
+<p>🌱 I'm currently learning Spring Boot, ReactJS</p>
+<p>💬 Ask me about Java, SQL Queries</p>
+<p>📫 How to reach me? vignesh.bandla01@gmail.com</p>
+<p>Know about my experiences <a href="https://drive.google.com/drive/folders/1KG3j0_h5Q0Syswf8jBC1kTUDjBTJRtcf">here</a></p>
+<p>⚡ Fun Fact: I find python hard</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+<p>
+</p>
+
+## 👥 Connect With Me
+<p>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=">
+</p>
+
+## 📊 Github Status
