@@ -7,7 +7,7 @@ Passionate & Enthusiastic CS Student, Developer
 <p>🌱 I'm currently learning Spring Boot, ReactJS</p>
 <p>💬 Ask me about Java, SQL Queries</p>
 <p>📫 How to reach me? <a href = "mailto: vignesh.bandla01@gmail.com">vignesh.bandla01@gmail.com</a></p>
-<p>Know about my experiences in my <a href="https://drive.google.com/drive/folders/1KG3j0_h5Q0Syswf8jBC1kTUDjBTJRtcf">Resume</a></p>
+<p>Know about my experiences in my <a href="https://drive.google.com/file/d/19MaSFYTWOKwCNWP5PouL5xstHdOYrA_B/view?usp=sharing">Resume</a></p>
 <p>⚡ Fun Fact: I prefer <strong>CLI</strong> over <strong>GUI</strong></p>
 
 
