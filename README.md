@@ -3,7 +3,7 @@
 Passionate & Enthusiastic CS Student, Developer
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on <a href="https://github.com/vignesh-6145/Expense-Manager">Expense Manager</a></p>
+<p>🔭 I'm currently working on <a href="#">OmniList</a></p>
 <p>🌱 I'm currently learning Spring Boot, ReactJS</p>
 <p>💬 Ask me about Java, SQL Queries</p>
 <p>📫 How to reach me? <a href = "mailto: vignesh.bandla01@gmail.com">vignesh.bandla01@gmail.com</a></p>
